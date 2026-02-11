@@ -31,7 +31,7 @@ Temperature: 30°F, 55°F, 80°F.
 
 Coupon Types: Bar, Carry out & Take away, Coffee House, Restaurant (<$20), Restaurant ($20-$50).
 
-**How to Run the Analysis
+**How to Run the Analysis**
 1. Prerequisites
 Ensure you have a Python environment installed (Python 3.8+ is recommended). You will need the following libraries:
 
@@ -73,4 +73,3 @@ Run all cells (Cell > Run All) to generate the data cleaning steps, statistical 
 /notebooks: Contains the main Jupyter Notebook analysis.
 
 README.md: Non-technical report and project overview.
-**
