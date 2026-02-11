@@ -6,9 +6,9 @@ This project analyzes data from the UCI Machine Learning Repository to predict w
 The primary goal is to use Exploratory Data Analysis (EDA) and Visualization to identify which demographics and environmental factors are most likely to lead to a coupon acceptance.
 
 Key Findings
-Overall Acceptance: The general acceptance rate for coupons across the entire dataset was [Insert %].
+Overall Acceptance: The general acceptance rate for coupons across the entire dataset was ~56%.
 
-Bar Coupons: Drivers who frequent bars more than once a month and are over the age of 25 showed an acceptance rate of [Insert %], compared to [Insert %] for the general population.
+Bar Coupons: Drivers who frequent bars more than once a month and are over the age of 25 showed an acceptance rate of ~69%, compared to ~33% for the general population.
 
 Coffee House Trends: [Example: Acceptance peaked during the morning hours, specifically when drivers had no urgent destination.]
 
@@ -44,4 +44,4 @@ Clone this repository.
 
 Ensure you have pandas, seaborn, and matplotlib installed.
 
-Open notebooks/Practical_Application_1.ipynb in Jupyter Notebook or VS Code.
+Open notebooks/prompt.ipynb in Jupyter Notebook or VS Code.
