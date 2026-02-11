@@ -95,7 +95,7 @@ Select Cell > Run All to generate the analysis and visualizations.
 └── README.md                   # Non-technical report and project overview
 
 
-#🏁 Next Steps and Recommendations
+🏁 Next Steps and Recommendations
 
 1. Predictive Modeling (Machine Learning)
 
