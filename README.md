@@ -14,9 +14,9 @@ Coffee House Trends: Acceptance peaked during the mid-morning hours (10 AM), rea
 Demographic Influence: Drivers traveling with Friends or Partners showed an acceptance rate of 76% for Carry-out and Coffee coupons, which is significantly higher than those driving Alone 73%. Conversely, drivers with Kid(s) in the car had the lowest acceptance rate in this category at 70%, suggesting that convenience is weighed against the complexity of the trip. Furthermore, drivers under the age of 30 were the most responsive demographic overall, particularly when the weather was Sunny and they had no urgent time constraints.
 
 Actionable Recommendations
-Optimize Delivery Timing: Target Coffee House coupons specifically between [Time] and [Time] for drivers in the "No Urgent Destination" category.
+Optimize Delivery Timing: Target Coffee House coupons specifically between 10:00 and 14:00  for drivers in the "No Urgent Destination" category.
 
-Target High-Frequency Users: Focus Bar and Restaurant coupons on users who already report visiting these establishments at least 1-3 times per month.
+Target High-Frequency Users: Focus Bar and Restaurant coupons on users who already report visiting these establishments at least 1-3 times per month. Drivers with an existing habit (1-3 visits) show a significantly higher acceptance rate (often ~60-70%) compared to those who "never" visit (often <20%).
 
 Passenger Context: Carry-out coupons should be prioritized for drivers traveling with friends or partners, as they show a higher conversion rate than solo drivers.
 
@@ -31,16 +31,46 @@ Temperature: 30°F, 55°F, 80°F.
 
 Coupon Types: Bar, Carry out & Take away, Coffee House, Restaurant (<$20), Restaurant ($20-$50).
 
-Repository Contents
-data/: Contains the original coupons.csv dataset.
+**How to Run the Analysis
+1. Prerequisites
+Ensure you have a Python environment installed (Python 3.8+ is recommended). You will need the following libraries:
 
-notebooks/: The main Jupyter Notebook featuring data cleaning, visualizations, and statistical analysis.
+pandas
 
-images/: Exported plots used for the final report.
+numpy
 
-How to Run the Analysis
-Clone this repository.
+seaborn
 
-Ensure you have pandas, seaborn, and matplotlib installed.
+matplotlib
 
-Open notebooks/prompt.ipynb in Jupyter Notebook or VS Code.
+You can install these via PowerShell or Terminal using:
+
+PowerShell
+pip install pandas numpy seaborn matplotlib
+2. Installation & Setup
+Clone the repository:
+
+PowerShell
+git clone https://github.com/rover141/Assignment5.1.git
+Navigate to the directory:
+
+PowerShell
+cd YourRepoName
+3. Execution
+Launch Jupyter Notebook or JupyterLab:
+
+PowerShell
+jupyter notebook
+Navigate to the notebooks/ folder and open prompt.ipynb.
+
+Run all cells (Cell > Run All) to generate the data cleaning steps, statistical summaries, and visualizations.
+
+4. Repository Structure
+/data: Contains the coupons.csv source file.
+
+/images: Contains the .png exports of the visualizations used in this report.
+
+/notebooks: Contains the main Jupyter Notebook analysis.
+
+README.md: Non-technical report and project overview.
+**
