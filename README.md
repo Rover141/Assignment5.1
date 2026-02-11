@@ -10,9 +10,8 @@ Overall Acceptance: The general acceptance rate for coupons across the entire da
 
 Bar Coupons: Drivers who frequent bars more than once a month and are over the age of 25 showed an acceptance rate of ~69%, compared to ~33% for the general population.
 
-Coffee House Trends: [Example: Acceptance peaked during the morning hours, specifically when drivers had no urgent destination.]
-
-Demographic Influence: [Example: Drivers with passengers (not including kids) were significantly more likely to accept carry-out coupons.]
+Coffee House Trends: Acceptance peaked during the mid-morning hours (10 AM), reaching approximately 64%. Drivers with No Urgent Destination were significantly more likely to accept the coupon (around 58%) compared to those commuting to Work (around 44%). This suggests that coffee coupons are more effective when the driver has the flexibility to make an unscheduled stop.
+Demographic Influence: Drivers traveling with Friends or Partners showed an acceptance rate of 76% for Carry-out and Coffee coupons, which is significantly higher than those driving Alone 73%. Conversely, drivers with Kid(s) in the car had the lowest acceptance rate in this category at 70%, suggesting that convenience is weighed against the complexity of the trip. Furthermore, drivers under the age of 30 were the most responsive demographic overall, particularly when the weather was Sunny and they had no urgent time constraints.
 
 Actionable Recommendations
 Optimize Delivery Timing: Target Coffee House coupons specifically between [Time] and [Time] for drivers in the "No Urgent Destination" category.
